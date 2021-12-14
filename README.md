@@ -1,7 +1,7 @@
 <h1 align="center">Hospital Management Web App</h1>
 <h3 align="center">
-    <a href="https://github.com/riboney/js-discordbot-for-learning/blob/main/docs/CONTRIBUTING.md">Join</a> · 
-    <a href="https://github.com/riboney/js-discordbot-for-learning/wiki" class="default">Notes</a> 
+    <a>MERN</a> · 
+    <a>APP</a> 
 </h3>
 
 ## Table of Contents
